@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/1uD3dvCif0m7VXJwlLXFhfhCMPe2CdN5C/view?usp=sharing" alt="abhisharma8756" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisharma8756" alt="abhisharma8756" /></a> </p>
 
