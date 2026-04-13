@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhisharma875621@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e-guMrAtzXrAKUes0lKgzkdL4idVxSEI/view?usp=drive_link](https://drive.google.com/file/d/1e-guMrAtzXrAKUes0lKgzkdL4idVxSEI/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C9-sIC63nuG7O_kb5JZEuOqVmLvpdPBc/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm little bit funny😂😁**
 
